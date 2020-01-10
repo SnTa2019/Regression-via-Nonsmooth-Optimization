@@ -4,3 +4,6 @@ for regression problems. The regression problem is formulated as an unconstraine
 objective function is presented as a difference of two convex (DC) functions. To address the nonconvexity of the problem A-PWLSVR builds
 piecewise linear estimates in an adaptive way using an incremental approach. The double bundle method for nonsmooth DC optimization (DBDC) 
 is applied to solve the underlying optimization problems. 
+
+References
+A. Bagirov, S. Taheri, N. Karmitsa, K. Joki, M.M. Mäkelä, "Adaptive piecewise linear support vector regression", submitted, 2020. 
