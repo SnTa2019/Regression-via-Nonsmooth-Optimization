@@ -59,5 +59,6 @@
 !*
 !*     Acknowledgements: 
 !*       The research work by: 
-!*       Prof. Adil Bagirov and Dr. Sona Taheri was supported by the Australian Government through the Australian Research Council's      !*       Discovery Projects funding scheme (Project No. DP190100580); and  
+!*       Prof. Adil Bagirov and Dr. Sona Taheri was supported by the Australian Government through the Australian Research Council's
+!*       Discovery Projects funding scheme (Project No. DP190100580); and  
 !*       Dr. Napsu Karmitsa and and Dr. Kaisa Joki was supported by the Academy of Finland (Project No. 289500 and 319274).
