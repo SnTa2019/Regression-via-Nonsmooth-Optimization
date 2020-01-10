@@ -3,7 +3,7 @@
 !*     A-PWLSVR - Adaptive Piecewise Linear Support Vector Regression    *
 !*                                                                       *
 !*     by Napsu Karmitsa 2019, Adil Bagirov and Kaisa Joki               *
-!*     (last modified 08.01.2020).                                       *
+!*     (last modified 10.01.2020).                                       *
 !*                                                                       *
 !*     The software is free for academic teaching and research           *
 !*     purposes but we ask you to refer the appropriate references       *
