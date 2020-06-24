@@ -1,16 +1,9 @@
-Adaptive DC clusterwise linear regression (ADC-CLR) is a regression method .....
-
-that uses the L1-risk function to define 
-
-regression errors and applies support vector machine approach in combination with the piecewise linear regression to develop a new model 
-
-for regression problems. The regression problem is formulated as an unconstrained nonconvex nonsmooth optimization problem, where the 
-
-objective function is presented as a difference of two convex (DC) functions. To address the nonconvexity of the problem A-PWLSVR builds
-
-piecewise linear estimates in an adaptive way using an incremental approach. The double bundle method for nonsmooth DC optimization (DBDC) 
-
-is applied to solve the underlying optimization problems. 
+Adaptive DC clusterwise linear regression (ADC-CLR) is a method for solving large-scale regression problems. The method is designed based on 
+the difference of convex algorithm (DCA) and the incremental approach. 
+The regression problem is formulated as an unconstrained nonconvex nonsmooth optimization problem, where the objective function is represented 
+as a difference of two convex (DC) functions. Then this problem is replaced by the sequence of smooth unconstrained optimization subproblems. 
+To address the nonconvexity of the new CLR problem ADC-CLR builds linear estimates in an adaptive way using an incremental approach, and the
+subproblems are solved by utilizing the Quasi-Newton method.
 
 
 
