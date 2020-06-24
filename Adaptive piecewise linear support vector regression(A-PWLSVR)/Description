@@ -1,4 +1,4 @@
-The adaptive piecewise linear support vector regression method (A-PWLSVR) is a regression method that uses the L1-risk function to define 
+Adaptive piecewise linear support vector regression (A-PWLSVR) is a regression method that uses the L1-risk function to define 
 regression errors and applies support vector machine approach in combination with the piecewise linear regression to develop a new model 
 for regression problems. The regression problem is formulated as an unconstrained nonconvex nonsmooth optimization problem, where the 
 objective function is presented as a difference of two convex (DC) functions. To address the nonconvexity of the problem A-PWLSVR builds
