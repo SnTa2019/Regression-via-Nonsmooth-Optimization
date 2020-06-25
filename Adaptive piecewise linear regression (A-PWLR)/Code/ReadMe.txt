@@ -15,6 +15,17 @@
 
 
 !*************************************************************************
+!*     Codes included:  
+!*
+!*
+!*     Main.py            - Main program for A-PWLR.
+!*     user_init.py       - Initialization of parameters for A-PWLR and AggSub.
+!*     config.py          - Global parameters and constants.
+!*     functions.py       - Computation of DC components f_1 and f_2 and their subgradients for the PWLR-L1 problem.
+!*     aggsub-py          - Aggregate subgradient method.
+
+
+
 
 
 !*     References:
@@ -31,5 +42,6 @@
 
 !*    Prof. Adil Bagirov and Dr. Sona Taheri was supported by the Australian Government through the Australian Research 
 !*    Council's Discovery Projects funding scheme (Project No. DP190100580); and  
-
 !*    Dr. Napsu Karmitsa was supported by by the Academy of Finland (Project No. 289500, 319274). 
+
+
