@@ -1,0 +1,12 @@
+Adaptive DC clusterwise linear regression (ADC-CLR) is a method for solving large-scale regression problems. The method is designed based on
+the difference of convex algorithm (DCA) and the incremental approach.
+The regression problem is formulated as an unconstrained nonconvex nonsmooth optimization problem, where the objective function is represented
+as a difference of two convex (DC) functions. DCA is applied to replace this DC-CLR problem by sequence of smooth convex optimization problems.
+ADC-CLR algorithm applies the incremental approach to generate starting points which are rough solution to the DC-CLR problem, and subproblems 
+are solved by utilizing the Quasi-Newton method.
+
+
+
+References
+
+A. Bagirov, S. Taheri,  E. Cimen, "Adaptive DC optimization algorithm for large-scale clusterwise linear regression", submitted, 2020. 
