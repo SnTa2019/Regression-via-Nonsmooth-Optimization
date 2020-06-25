@@ -1,17 +1,7 @@
-Adaptive DC clusterwise linear regression (ADC-CLR) is a method for solving large-scale regression problems. The method is designed based on
-the difference of convex algorithm (DCA) and the incremental approach.
-The regression problem is formulated as an unconstrained nonconvex nonsmooth optimization problem, where the objective function is represented
-as a difference of two convex (DC) functions. DCA is applied to replace this DC-CLR problem by sequence of smooth convex optimization problems.
-ADC-CLR algorithm applies the incremental approach to generate starting points which are rough solution to the DC-CLR problem, and subproblems 
-are solved by utilizing the Quasi-Newton method.
-
-
-Adaptive piecewise linear regression (A-PWLR) is a method for solving large-scale regression problems
-uses the piecewise linear model and L1-risk function to solve regression problems. 
-The regression problem is formulated as an unconstrained nonconvex nonsmooth optimization problem, 
-where the objective function is presented as a difference of two convex (DC) functions. 
-To address the nonconvexity of the problem A-PWLR builds piecewise linear estimates in an adaptive way using an incremental approach. 
-The aggregate subgradient method for nonsmooth DC optimization (DBDC) is applied to solve the underlying optimization problems. 
+Adaptive piecewise linear regression (A-PWLR) is a method for solving regression problems. This method is very efficeint and accurate particularly in data sets with outliers.
+The piecewise linear regression problem is formulated as an unconstrained nonconvex nonsmooth optimization problem, where the objective function is presented as a difference
+of two convex (DC) functions. To address the nonconvexity of the problem A-PWLR builds piecewise linear estimates in an adaptive way using an incremental approach, and the 
+aggregate subgradient method for nonsmooth DC optimization is applied to solve the underlying optimization problems. 
 
 
 
