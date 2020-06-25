@@ -6,7 +6,16 @@ ADC-CLR algorithm applies the incremental approach to generate starting points w
 are solved by utilizing the Quasi-Newton method.
 
 
+Adaptive piecewise linear regression (A-PWLR) is a method for solving large-scale regression problems
+uses the piecewise linear model and L1-risk function to solve regression problems. 
+The regression problem is formulated as an unconstrained nonconvex nonsmooth optimization problem, 
+where the objective function is presented as a difference of two convex (DC) functions. 
+To address the nonconvexity of the problem A-PWLR builds piecewise linear estimates in an adaptive way using an incremental approach. 
+The aggregate subgradient method for nonsmooth DC optimization (DBDC) is applied to solve the underlying optimization problems. 
+
+
+
 
 References
 
-A. Bagirov, S. Taheri,  E. Cimen, "Adaptive DC optimization algorithm for large-scale clusterwise linear regression", submitted, 2020. 
+A. Bagirov, S. Taheri, N. Karmitsa, N. Sultanova, and S. Asadi, "Robust piecewise linear L1-regression via nonsmooth optimization in data sets with outliers", submitted, 2020. 
