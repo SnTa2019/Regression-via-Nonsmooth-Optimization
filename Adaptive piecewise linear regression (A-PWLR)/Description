@@ -1,7 +1,7 @@
 Adaptive piecewise linear regression (A-PWLR) is a method for solving regression problems. This method is very efficeint and accurate particularly in data sets with outliers.
 The piecewise linear regression problem is formulated as an unconstrained nonconvex nonsmooth optimization problem, where the objective function is presented as a difference
-of two convex (DC) functions. To address the nonconvexity of the problem A-PWLR builds piecewise linear estimates in an adaptive way using an incremental approach, and the 
-aggregate subgradient method for nonsmooth DC optimization is applied to solve the underlying optimization problems. 
+of two convex (DC) functions. Auxiliary problems are introduced to design an adaptive approach to generate a suitable piecewise linear regression model and starting points for 
+solving the underlying DC optimization problems. The aggregate subgradient method for nonsmooth DC optimization is applied to solve thse problems. 
 
 
 
