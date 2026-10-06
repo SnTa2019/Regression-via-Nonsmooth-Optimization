@@ -1,0 +1,1225 @@
+Weights of features:  0.19427  0.14400  0.22117  0.21774  0.22281
+
+The number of clusters =          1
+
+First method: largest cluster
+
+ 6051.461666 4163.596577    0.747804    0.864756
+
+Second method: weights
+
+ 6051.461666 4163.596577    0.747804    0.864756
+
+Third method: knn with weights
+
+ 6051.461666 4163.596577    0.747804    0.864756
+
+Fourth method: knn with one cluster
+
+ 6051.461666 4163.596577    0.747804    0.864756
+
+Fifth method: distance
+
+ 6051.461666 4163.596577    0.747804    0.864756
+
+Sixth method: cluster centers
+
+ 6051.461666 4163.596577    0.747804    0.864756
+
+Weights of features:  0.11927  0.08981  0.14792  0.15344  0.48956
+
+The number of clusters =          2
+
+First method: largest cluster
+
+ 6332.291808 3994.526099    0.723853    0.851161
+
+Second method: weights
+
+ 6091.870801 4059.282749    0.744424    0.864246
+
+Third method: knn with weights
+
+ 5755.244921 3729.319452    0.771889    0.878837
+
+Fourth method: knn with one cluster
+
+ 6165.527258 3857.843190    0.738207    0.859301
+
+Fifth method: distance
+
+ 6648.629800 5021.647335    0.695573    0.848493
+
+Sixth method: cluster centers
+
+ 8007.246299 5633.552220    0.558445    0.798864
+
+Weights of features:  0.04179  0.36682  0.07208  0.07804  0.44127
+
+The number of clusters =          3
+
+First method: largest cluster
+
+ 6329.427884 3996.124116    0.724103    0.851056
+
+Second method: weights
+
+ 6077.627852 3987.544037    0.745618    0.864396
+
+Third method: knn with weights
+
+ 5755.581676 3721.455399    0.771862    0.878875
+
+Fourth method: knn with one cluster
+
+ 6023.852281 3800.223958    0.750100    0.866219
+
+Fifth method: distance
+
+ 6166.681810 4379.019984    0.738108    0.862538
+
+Sixth method: cluster centers
+
+ 6162.657118 3885.566257    0.738450    0.858951
+
+Weights of features:  0.02467  0.34908  0.06353  0.13897  0.42375
+
+The number of clusters =          4
+
+First method: largest cluster
+
+ 6442.912959 4004.776238    0.714121    0.845396
+
+Second method: weights
+
+ 6112.449528 4006.403925    0.742695    0.863926
+
+Third method: knn with weights
+
+ 5783.503805 3645.543351    0.769644    0.878337
+
+Fourth method: knn with one cluster
+
+ 6027.337234 3684.936374    0.749810    0.866243
+
+Fifth method: distance
+
+ 6157.740747 4157.231753    0.738867    0.862843
+
+Sixth method: cluster centers
+
+ 6140.420543 3713.823629    0.740334    0.860903
+
+Weights of features:  0.01047  0.40832  0.04917  0.12366  0.40837
+
+The number of clusters =          5
+
+First method: largest cluster
+
+ 6442.727836 4004.786880    0.714137    0.845405
+
+Second method: weights
+
+ 6177.032576 3975.629423    0.737229    0.863559
+
+Third method: knn with weights
+
+ 5825.740716 3640.249504    0.766267    0.877337
+
+Fourth method: knn with one cluster
+
+ 6157.158987 3796.779230    0.738917    0.859850
+
+Fifth method: distance
+
+ 6707.595694 4944.830601    0.690150    0.854779
+
+Sixth method: cluster centers
+
+ 8327.363181 5031.838600    0.522434    0.763108
+
+Weights of features:  0.00194  0.38994  0.03604  0.18218  0.38990
+
+The number of clusters =          6
+
+First method: largest cluster
+
+ 6406.115691 4169.856442    0.717377    0.847303
+
+Second method: weights
+
+ 6204.838125 3996.410727    0.734858    0.864183
+
+Third method: knn with weights
+
+ 5861.531947 3616.842527    0.763386    0.876759
+
+Fourth method: knn with one cluster
+
+ 6227.508532 3774.017276    0.732916    0.856614
+
+Fifth method: distance
+
+ 6494.779290 4622.012536    0.709499    0.859979
+
+Sixth method: cluster centers
+
+ 5979.459660 3417.188425    0.753769    0.872572
+
+Weights of features:  0.00129  0.38253  0.01961  0.21402  0.38256
+
+The number of clusters =          7
+
+First method: largest cluster
+
+ 6595.466558 3763.785989    0.700422    0.844802
+
+Second method: weights
+
+ 6228.571212 3963.443779    0.732825    0.863821
+
+Third method: knn with weights
+
+ 5846.364757 3612.715109    0.764609    0.878343
+
+Fourth method: knn with one cluster
+
+ 6163.594783 3714.998915    0.738371    0.860472
+
+Fifth method: distance
+
+ 6425.668406 4465.148340    0.715649    0.862021
+
+Sixth method: cluster centers
+
+ 6194.763468 3629.444009    0.735718    0.861597
+
+Weights of features:  0.00086  0.37476  0.00672  0.24287  0.37479
+
+The number of clusters =          8
+
+First method: largest cluster
+
+ 6601.549836 3768.657020    0.699869    0.844493
+
+Second method: weights
+
+ 6227.627486 3981.823561    0.732906    0.863974
+
+Third method: knn with weights
+
+ 5854.495509 3607.833432    0.763954    0.878106
+
+Fourth method: knn with one cluster
+
+ 6114.223328 3680.272651    0.742545    0.862706
+
+Fifth method: distance
+
+ 6340.090976 4271.345677    0.723172    0.863141
+
+Sixth method: cluster centers
+
+ 5207.045062 3081.283737    0.813276    0.901253
+
+Weights of features:  0.00069  0.36906  0.00103  0.26018  0.36904
+
+The number of clusters =          9
+
+First method: largest cluster
+
+ 6600.022072 3767.066144    0.700008    0.844575
+
+Second method: weights
+
+ 6249.399504 3994.048538    0.731035    0.863955
+
+Third method: knn with weights
+
+ 5859.743984 3601.723721    0.763530    0.878072
+
+Fourth method: knn with one cluster
+
+ 6207.637356 3716.758473    0.734618    0.858829
+
+Fifth method: distance
+
+ 6383.245940 4230.622512    0.719391    0.862855
+
+Sixth method: cluster centers
+
+ 5019.620270 2975.375722    0.826476    0.907096
+
+Weights of features:  0.00069  0.36938  0.00143  0.25909  0.36941
+
+The number of clusters =         10
+
+First method: largest cluster
+
+ 6599.995387 3767.083360    0.700011    0.844576
+
+Second method: weights
+
+ 6250.654214 3996.683028    0.730927    0.863926
+
+Third method: knn with weights
+
+ 5857.346752 3601.157285    0.763724    0.878077
+
+Fourth method: knn with one cluster
+
+ 6158.120854 3694.837170    0.738835    0.861113
+
+Fifth method: distance
+
+ 6312.234447 4136.493768    0.725600    0.863545
+
+Sixth method: cluster centers
+
+ 5028.810162 2963.544630    0.825840    0.907377
+
+Weights of features:  0.00046  0.36210  0.00046  0.27485  0.36213
+
+The number of clusters =         11
+
+First method: largest cluster
+
+ 6600.034979 3767.108541    0.700007    0.844574
+
+Second method: weights
+
+ 6272.225578 4008.917636    0.729067    0.863908
+
+Third method: knn with weights
+
+ 5861.933596 3595.077579    0.763353    0.878043
+
+Fourth method: knn with one cluster
+
+ 6294.802729 3768.737021    0.727113    0.855151
+
+Fifth method: distance
+
+ 6360.089498 4112.653626    0.721423    0.862983
+
+Sixth method: cluster centers
+
+ 5002.215317 2966.425994    0.827677    0.907868
+
+Weights of features:  0.00043  0.36197  0.00043  0.27518  0.36200
+
+The number of clusters =         12
+
+First method: largest cluster
+
+ 6601.879204 3749.684301    0.699839    0.844757
+
+Second method: weights
+
+ 6376.341203 4110.574474    0.719998    0.864075
+
+Third method: knn with weights
+
+ 5922.090450 3643.513501    0.758471    0.876675
+
+Fourth method: knn with one cluster
+
+ 6246.033800 3817.963309    0.731325    0.856866
+
+Fifth method: distance
+
+ 6662.990838 4725.769616    0.694257    0.862286
+
+Sixth method: cluster centers
+
+ 4818.573357 2856.005713    0.840097    0.914830
+
+Weights of features:  0.00046  0.36210  0.00046  0.27487  0.36212
+
+The number of clusters =         13
+
+First method: largest cluster
+
+ 6600.003601 3767.096363    0.700010    0.844575
+
+Second method: weights
+
+ 6273.786662 4010.002650    0.728932    0.863923
+
+Third method: knn with weights
+
+ 5860.595813 3593.168013    0.763461    0.878074
+
+Fourth method: knn with one cluster
+
+ 6294.266591 3769.101471    0.727160    0.855166
+
+Fifth method: distance
+
+ 6361.321570 4114.067667    0.721315    0.863023
+
+Sixth method: cluster centers
+
+ 6121.027064 3661.039625    0.741972    0.874026
+
+Weights of features:  0.00032  0.35430  0.00032  0.29074  0.35432
+
+The number of clusters =         14
+
+First method: largest cluster
+
+ 6600.118166 3767.151601    0.700000    0.844569
+
+Second method: weights
+
+ 6257.015677 3999.592192    0.730380    0.863871
+
+Third method: knn with weights
+
+ 5870.933688 3611.079291    0.762626    0.877510
+
+Fourth method: knn with one cluster
+
+ 6371.316877 3873.787682    0.720439    0.850888
+
+Fifth method: distance
+
+ 6359.762511 4373.339522    0.721452    0.862370
+
+Sixth method: cluster centers
+
+ 5872.270971 3476.512944    0.762518    0.882966
+
+Weights of features:  0.00027  0.34841  0.00027  0.30261  0.34844
+
+The number of clusters =         15
+
+First method: largest cluster
+
+ 6599.973900 3767.312390    0.700013    0.844574
+
+Second method: weights
+
+ 6309.848001 4055.770856    0.725807    0.863689
+
+Third method: knn with weights
+
+ 5916.281490 3648.608058    0.758945    0.876095
+
+Fourth method: knn with one cluster
+
+ 6231.854031 3809.184496    0.732544    0.857161
+
+Fifth method: distance
+
+ 6726.793528 4858.471088    0.688373    0.857658
+
+Sixth method: cluster centers
+
+ 5139.992475 3107.204019    0.818054    0.905029
+
+Fit function values on training set:
+
+#Clusters:     1
+          39220221664.354820
+#Clusters:     2
+          20911952153.326672
+#Clusters:     3
+          20059311593.549332
+#Clusters:     4
+          19105387434.016087
+#Clusters:     5
+          18078990738.961136
+#Clusters:     6
+          17328362349.761299
+#Clusters:     7
+          16353872868.569904
+#Clusters:     8
+          15989575386.207516
+#Clusters:     9
+          15939918405.846649
+#Clusters:    10
+          15616294360.177629
+#Clusters:    11
+          15575032825.121061
+#Clusters:    12
+          11371542911.379835
+#Clusters:    13
+          11523378325.040060
+#Clusters:    14
+          10569921746.404652
+#Clusters:    15
+          10488155521.686119
+
+VALUES OF PERFORMANCE MEASURES ON TRAINING SET:
+
+
+#Clusters:     1
+
+RMSE-tr:                   6051.461666
+MAE-tr:                    4163.596577
+CD-tr:                        0.747804
+PIRSON-tr:                    0.864756
+
+#Clusters:     2
+
+RMSE-tr:                   4418.781762
+MAE-tr:                    2572.326367
+CD-tr:                        0.865531
+PIRSON-tr:                    0.930397
+
+#Clusters:     3
+
+RMSE-tr:                   4327.761079
+MAE-tr:                    2433.170878
+CD-tr:                        0.871013
+PIRSON-tr:                    0.933336
+
+#Clusters:     4
+
+RMSE-tr:                   4223.603967
+MAE-tr:                    2162.683086
+CD-tr:                        0.877147
+PIRSON-tr:                    0.937573
+
+#Clusters:     5
+
+RMSE-tr:                   4108.585752
+MAE-tr:                    2044.591097
+CD-tr:                        0.883747
+PIRSON-tr:                    0.941425
+
+#Clusters:     6
+
+RMSE-tr:                   4022.388598
+MAE-tr:                    1776.173814
+CD-tr:                        0.888574
+PIRSON-tr:                    0.945195
+
+#Clusters:     7
+
+RMSE-tr:                   3907.649238
+MAE-tr:                    1725.434322
+CD-tr:                        0.894840
+PIRSON-tr:                    0.948498
+
+#Clusters:     8
+
+RMSE-tr:                   3863.880889
+MAE-tr:                    1691.915115
+CD-tr:                        0.897183
+PIRSON-tr:                    0.949641
+
+#Clusters:     9
+
+RMSE-tr:                   3857.876419
+MAE-tr:                    1668.408350
+CD-tr:                        0.897502
+PIRSON-tr:                    0.949942
+
+#Clusters:    10
+
+RMSE-tr:                   3818.512863
+MAE-tr:                    1620.548331
+CD-tr:                        0.899583
+PIRSON-tr:                    0.950882
+
+#Clusters:    11
+
+RMSE-tr:                   3813.464869
+MAE-tr:                    1627.495374
+CD-tr:                        0.899848
+PIRSON-tr:                    0.950978
+
+#Clusters:    12
+
+RMSE-tr:                   3258.479266
+MAE-tr:                    1313.186924
+CD-tr:                        0.926878
+PIRSON-tr:                    0.965361
+
+#Clusters:    13
+
+RMSE-tr:                   3280.161107
+MAE-tr:                    1328.014861
+CD-tr:                        0.925902
+PIRSON-tr:                    0.965344
+
+#Clusters:    14
+
+RMSE-tr:                   3141.529561
+MAE-tr:                    1249.165125
+CD-tr:                        0.932033
+PIRSON-tr:                    0.967737
+
+#Clusters:    15
+
+RMSE-tr:                   3129.354933
+MAE-tr:                    1212.085332
+CD-tr:                        0.932558
+PIRSON-tr:                    0.968143
+
+__________________________________________________
+
+VALUES OF PERFORMANCE MEASURES ON TEST SET:
+
+
+#Clusters:     1
+
+The first method, largest cluster:
+
+RMSE-test:                   6080.991504
+MAE-test:                    4216.194421
+CD-test:                        0.756543
+PIRSON-test:                    0.870608
+
+The second method, using weights:
+
+RMSE-test:                   6080.991504
+MAE-test:                    4216.194421
+CD-test:                        0.756543
+PIRSON-test:                    0.870608
+
+The third method, k-NN with weights:
+
+RMSE-test:                   6080.991504
+MAE-test:                    4216.194421
+CD-test:                        0.756543
+PIRSON-test:                    0.870608
+
+The fourth method, k-NN one cluster:
+
+RMSE-test:                   6080.991504
+MAE-test:                    4216.194421
+CD-test:                        0.756543
+PIRSON-test:                    0.870608
+
+The fifth method, distances:
+
+RMSE-test:                   6080.991504
+MAE-test:                    4216.194421
+CD-test:                        0.756543
+PIRSON-test:                    0.870608
+
+The sixth method: cluster centers:
+
+RMSE-test:                   6080.991504
+MAE-test:                    4216.194421
+CD-test:                        0.756543
+PIRSON-test:                    0.870608
+
+#Clusters:     2
+
+The first method, largest cluster:
+
+RMSE-test:                   6372.179995
+MAE-test:                    4142.569468
+CD-test:                        0.732669
+PIRSON-test:                    0.856093
+
+The second method, using weights:
+
+RMSE-test:                   6134.516724
+MAE-test:                    4134.260114
+CD-test:                        0.752238
+PIRSON-test:                    0.869601
+
+The third method, k-NN with weights:
+
+RMSE-test:                   6137.672957
+MAE-test:                    4071.407043
+CD-test:                        0.751983
+PIRSON-test:                    0.869053
+
+The fourth method, k-NN one cluster:
+
+RMSE-test:                   6370.082215
+MAE-test:                    4110.222770
+CD-test:                        0.732845
+PIRSON-test:                    0.856228
+
+The fifth method, distances:
+
+RMSE-test:                   6777.947394
+MAE-test:                    5144.186654
+CD-test:                        0.697539
+PIRSON-test:                    0.852801
+
+The sixth method: cluster centers:
+
+RMSE-test:                   8299.538552
+MAE-test:                    5766.314076
+CD-test:                        0.546496
+PIRSON-test:                    0.796151
+
+#Clusters:     3
+
+The first method, largest cluster:
+
+RMSE-test:                   6363.062993
+MAE-test:                    4147.494289
+CD-test:                        0.733433
+PIRSON-test:                    0.856521
+
+The second method, using weights:
+
+RMSE-test:                   6128.709592
+MAE-test:                    4075.732103
+CD-test:                        0.752707
+PIRSON-test:                    0.870024
+
+The third method, k-NN with weights:
+
+RMSE-test:                   6139.314758
+MAE-test:                    4041.010949
+CD-test:                        0.751850
+PIRSON-test:                    0.868980
+
+The fourth method, k-NN one cluster:
+
+RMSE-test:                   6604.163496
+MAE-test:                    4396.689220
+CD-test:                        0.712850
+PIRSON-test:                    0.844863
+
+The fifth method, distances:
+
+RMSE-test:                   6254.639780
+MAE-test:                    4493.016060
+CD-test:                        0.742440
+PIRSON-test:                    0.867317
+
+The sixth method: cluster centers:
+
+RMSE-test:                   6448.109970
+MAE-test:                    4066.891547
+CD-test:                        0.726260
+PIRSON-test:                    0.852396
+
+#Clusters:     4
+
+The first method, largest cluster:
+
+RMSE-test:                   6502.385182
+MAE-test:                    4191.585192
+CD-test:                        0.721632
+PIRSON-test:                    0.851006
+
+The second method, using weights:
+
+RMSE-test:                   6190.758478
+MAE-test:                    4098.138034
+CD-test:                        0.747674
+PIRSON-test:                    0.869082
+
+The third method, k-NN with weights:
+
+RMSE-test:                   6218.865413
+MAE-test:                    4030.880946
+CD-test:                        0.745378
+PIRSON-test:                    0.866943
+
+The fourth method, k-NN one cluster:
+
+RMSE-test:                   6836.802442
+MAE-test:                    4537.210604
+CD-test:                        0.692263
+PIRSON-test:                    0.834882
+
+The fifth method, distances:
+
+RMSE-test:                   6256.526985
+MAE-test:                    4245.587308
+CD-test:                        0.742285
+PIRSON-test:                    0.867452
+
+The sixth method: cluster centers:
+
+RMSE-test:                   6301.927242
+MAE-test:                    3916.604261
+CD-test:                        0.738531
+PIRSON-test:                    0.859896
+
+#Clusters:     5
+
+The first method, largest cluster:
+
+RMSE-test:                   6502.146015
+MAE-test:                    4191.563307
+CD-test:                        0.721653
+PIRSON-test:                    0.851017
+
+The second method, using weights:
+
+RMSE-test:                   6266.228252
+MAE-test:                    4100.088829
+CD-test:                        0.741485
+PIRSON-test:                    0.868678
+
+The third method, k-NN with weights:
+
+RMSE-test:                   6297.062006
+MAE-test:                    4093.527974
+CD-test:                        0.738934
+PIRSON-test:                    0.865106
+
+The fourth method, k-NN one cluster:
+
+RMSE-test:                   6663.362730
+MAE-test:                    4376.211551
+CD-test:                        0.707679
+PIRSON-test:                    0.842746
+
+The fifth method, distances:
+
+RMSE-test:                   6905.682535
+MAE-test:                    5236.693498
+CD-test:                        0.686031
+PIRSON-test:                    0.859898
+
+The sixth method: cluster centers:
+
+RMSE-test:                   8880.139844
+MAE-test:                    5615.418848
+CD-test:                        0.480826
+PIRSON-test:                    0.774222
+
+#Clusters:     6
+
+The first method, largest cluster:
+
+RMSE-test:                   6450.433254
+MAE-test:                    4317.797629
+CD-test:                        0.726063
+PIRSON-test:                    0.852124
+
+The second method, using weights:
+
+RMSE-test:                   6308.947054
+MAE-test:                    4159.765775
+CD-test:                        0.737948
+PIRSON-test:                    0.869525
+
+The third method, k-NN with weights:
+
+RMSE-test:                   6321.839420
+MAE-test:                    4088.472267
+CD-test:                        0.736876
+PIRSON-test:                    0.866413
+
+The fourth method, k-NN one cluster:
+
+RMSE-test:                   6806.104064
+MAE-test:                    4449.091224
+CD-test:                        0.695020
+PIRSON-test:                    0.837799
+
+The fifth method, distances:
+
+RMSE-test:                   6671.487124
+MAE-test:                    4904.004335
+CD-test:                        0.706965
+PIRSON-test:                    0.865009
+
+The sixth method: cluster centers:
+
+RMSE-test:                   6072.965705
+MAE-test:                    3577.376366
+CD-test:                        0.757185
+PIRSON-test:                    0.877837
+
+#Clusters:     7
+
+The first method, largest cluster:
+
+RMSE-test:                   6680.150355
+MAE-test:                    3933.265985
+CD-test:                        0.706204
+PIRSON-test:                    0.852533
+
+The second method, using weights:
+
+RMSE-test:                   6347.863835
+MAE-test:                    4146.294399
+CD-test:                        0.734705
+PIRSON-test:                    0.868852
+
+The third method, k-NN with weights:
+
+RMSE-test:                   6411.823127
+MAE-test:                    4089.505487
+CD-test:                        0.729332
+PIRSON-test:                    0.863230
+
+The fourth method, k-NN one cluster:
+
+RMSE-test:                   7046.534478
+MAE-test:                    4626.891117
+CD-test:                        0.673093
+PIRSON-test:                    0.825674
+
+The fifth method, distances:
+
+RMSE-test:                   6607.922354
+MAE-test:                    4746.428759
+CD-test:                        0.712523
+PIRSON-test:                    0.866340
+
+The sixth method: cluster centers:
+
+RMSE-test:                   7526.490040
+MAE-test:                    4505.840760
+CD-test:                        0.627043
+PIRSON-test:                    0.813149
+
+#Clusters:     8
+
+The first method, largest cluster:
+
+RMSE-test:                   6682.076166
+MAE-test:                    3931.849104
+CD-test:                        0.706034
+PIRSON-test:                    0.852396
+
+The second method, using weights:
+
+RMSE-test:                   6351.539447
+MAE-test:                    4170.537130
+CD-test:                        0.734398
+PIRSON-test:                    0.868978
+
+The third method, k-NN with weights:
+
+RMSE-test:                   6408.377768
+MAE-test:                    4106.276322
+CD-test:                        0.729623
+PIRSON-test:                    0.863689
+
+The fourth method, k-NN one cluster:
+
+RMSE-test:                   6998.758016
+MAE-test:                    4620.477151
+CD-test:                        0.677510
+PIRSON-test:                    0.828550
+
+The fifth method, distances:
+
+RMSE-test:                   6504.286612
+MAE-test:                    4539.494668
+CD-test:                        0.721469
+PIRSON-test:                    0.867906
+
+The sixth method: cluster centers:
+
+RMSE-test:                   5620.554501
+MAE-test:                    3486.802015
+CD-test:                        0.792015
+PIRSON-test:                    0.891267
+
+#Clusters:     9
+
+The first method, largest cluster:
+
+RMSE-test:                   6681.399285
+MAE-test:                    3931.598360
+CD-test:                        0.706094
+PIRSON-test:                    0.852443
+
+The second method, using weights:
+
+RMSE-test:                   6376.756724
+MAE-test:                    4189.615637
+CD-test:                        0.732285
+PIRSON-test:                    0.868978
+
+The third method, k-NN with weights:
+
+RMSE-test:                   6419.720545
+MAE-test:                    4136.049891
+CD-test:                        0.728665
+PIRSON-test:                    0.863963
+
+The fourth method, k-NN one cluster:
+
+RMSE-test:                   7023.798382
+MAE-test:                    4713.772300
+CD-test:                        0.675199
+PIRSON-test:                    0.827825
+
+The fifth method, distances:
+
+RMSE-test:                   6539.639733
+MAE-test:                    4484.426996
+CD-test:                        0.718433
+PIRSON-test:                    0.867835
+
+The sixth method: cluster centers:
+
+RMSE-test:                   5548.736407
+MAE-test:                    3395.728053
+CD-test:                        0.797296
+PIRSON-test:                    0.893420
+
+#Clusters:    10
+
+The first method, largest cluster:
+
+RMSE-test:                   6681.376514
+MAE-test:                    3931.624536
+CD-test:                        0.706096
+PIRSON-test:                    0.852444
+
+The second method, using weights:
+
+RMSE-test:                   6376.696306
+MAE-test:                    4190.371404
+CD-test:                        0.732290
+PIRSON-test:                    0.868950
+
+The third method, k-NN with weights:
+
+RMSE-test:                   6427.790201
+MAE-test:                    4119.116171
+CD-test:                        0.727982
+PIRSON-test:                    0.863228
+
+The fourth method, k-NN one cluster:
+
+RMSE-test:                   6976.642685
+MAE-test:                    4581.147785
+CD-test:                        0.679545
+PIRSON-test:                    0.830287
+
+The fifth method, distances:
+
+RMSE-test:                   6464.174212
+MAE-test:                    4396.968877
+CD-test:                        0.724894
+PIRSON-test:                    0.868529
+
+The sixth method: cluster centers:
+
+RMSE-test:                   5567.804776
+MAE-test:                    3380.270496
+CD-test:                        0.795901
+PIRSON-test:                    0.892852
+
+#Clusters:    11
+
+The first method, largest cluster:
+
+RMSE-test:                   6681.410629
+MAE-test:                    3931.635713
+CD-test:                        0.706093
+PIRSON-test:                    0.852442
+
+The second method, using weights:
+
+RMSE-test:                   6400.833756
+MAE-test:                    4208.007741
+CD-test:                        0.730259
+PIRSON-test:                    0.868971
+
+The third method, k-NN with weights:
+
+RMSE-test:                   6439.202860
+MAE-test:                    4148.273997
+CD-test:                        0.727016
+PIRSON-test:                    0.863450
+
+The fourth method, k-NN one cluster:
+
+RMSE-test:                   7050.107356
+MAE-test:                    4721.383512
+CD-test:                        0.672761
+PIRSON-test:                    0.828487
+
+The fifth method, distances:
+
+RMSE-test:                   6508.593456
+MAE-test:                    4359.400552
+CD-test:                        0.721100
+PIRSON-test:                    0.868012
+
+The sixth method: cluster centers:
+
+RMSE-test:                   5555.095089
+MAE-test:                    3387.565582
+CD-test:                        0.796831
+PIRSON-test:                    0.893192
+
+#Clusters:    12
+
+The first method, largest cluster:
+
+RMSE-test:                   6684.499738
+MAE-test:                    3915.860918
+CD-test:                        0.705821
+PIRSON-test:                    0.852517
+
+The second method, using weights:
+
+RMSE-test:                   6517.201029
+MAE-test:                    4361.994403
+CD-test:                        0.720362
+PIRSON-test:                    0.869266
+
+The third method, k-NN with weights:
+
+RMSE-test:                   6529.917631
+MAE-test:                    4243.797879
+CD-test:                        0.719270
+PIRSON-test:                    0.863672
+
+The fourth method, k-NN one cluster:
+
+RMSE-test:                   6996.131444
+MAE-test:                    4525.537705
+CD-test:                        0.677752
+PIRSON-test:                    0.827839
+
+The fifth method, distances:
+
+RMSE-test:                   6872.864281
+MAE-test:                    5088.200320
+CD-test:                        0.689008
+PIRSON-test:                    0.867461
+
+The sixth method: cluster centers:
+
+RMSE-test:                   5274.408652
+MAE-test:                    3263.800253
+CD-test:                        0.816844
+PIRSON-test:                    0.904017
+
+#Clusters:    13
+
+The first method, largest cluster:
+
+RMSE-test:                   6681.386602
+MAE-test:                    3931.638153
+CD-test:                        0.706095
+PIRSON-test:                    0.852443
+
+The second method, using weights:
+
+RMSE-test:                   6401.153798
+MAE-test:                    4207.462893
+CD-test:                        0.730232
+PIRSON-test:                    0.869029
+
+The third method, k-NN with weights:
+
+RMSE-test:                   6438.806100
+MAE-test:                    4151.156520
+CD-test:                        0.727049
+PIRSON-test:                    0.863545
+
+The fourth method, k-NN one cluster:
+
+RMSE-test:                   7045.259427
+MAE-test:                    4722.381915
+CD-test:                        0.673211
+PIRSON-test:                    0.828798
+
+The fifth method, distances:
+
+RMSE-test:                   6511.300636
+MAE-test:                    4358.745176
+CD-test:                        0.720868
+PIRSON-test:                    0.867925
+
+The sixth method: cluster centers:
+
+RMSE-test:                   6380.272018
+MAE-test:                    3936.322861
+CD-test:                        0.731989
+PIRSON-test:                    0.862154
+
+#Clusters:    14
+
+The first method, largest cluster:
+
+RMSE-test:                   6681.504321
+MAE-test:                    3931.676549
+CD-test:                        0.706085
+PIRSON-test:                    0.852437
+
+The second method, using weights:
+
+RMSE-test:                   6389.729987
+MAE-test:                    4202.482403
+CD-test:                        0.731194
+PIRSON-test:                    0.868793
+
+The third method, k-NN with weights:
+
+RMSE-test:                   6417.722109
+MAE-test:                    4142.471638
+CD-test:                        0.728834
+PIRSON-test:                    0.864050
+
+The fourth method, k-NN one cluster:
+
+RMSE-test:                   7243.699157
+MAE-test:                    4816.031352
+CD-test:                        0.654543
+PIRSON-test:                    0.817848
+
+The fifth method, distances:
+
+RMSE-test:                   6505.203976
+MAE-test:                    4611.561525
+CD-test:                        0.721391
+PIRSON-test:                    0.868104
+
+The sixth method: cluster centers:
+
+RMSE-test:                   6208.149682
+MAE-test:                    3868.252749
+CD-test:                        0.746255
+PIRSON-test:                    0.870173
+
+#Clusters:    15
+
+The first method, largest cluster:
+
+RMSE-test:                   6681.338563
+MAE-test:                    3931.832012
+CD-test:                        0.706099
+PIRSON-test:                    0.852443
+
+The second method, using weights:
+
+RMSE-test:                   6442.957728
+MAE-test:                    4264.597071
+CD-test:                        0.726697
+PIRSON-test:                    0.868610
+
+The third method, k-NN with weights:
+
+RMSE-test:                   6554.099984
+MAE-test:                    4277.060780
+CD-test:                        0.717187
+PIRSON-test:                    0.859083
+
+The fourth method, k-NN one cluster:
+
+RMSE-test:                   7178.471177
+MAE-test:                    4814.486824
+CD-test:                        0.660736
+PIRSON-test:                    0.820286
+
+The fifth method, distances:
+
+RMSE-test:                   6902.795106
+MAE-test:                    5159.968393
+CD-test:                        0.686293
+PIRSON-test:                    0.863613
+
+The sixth method: cluster centers:
+
+RMSE-test:                   5814.182038
+MAE-test:                    3582.412334
+CD-test:                        0.777438
+PIRSON-test:                    0.882632

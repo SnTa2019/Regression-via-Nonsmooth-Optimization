@@ -1,0 +1,257 @@
+ Input complete. Number of records:         1338
+
+
+No of hyperplanes:   1
+
+Fit function value:    39220221664.35482025
+
+The number of linear regression problems solved:         1
+
+
+The number of linear function evaluations:             155295.
+
+Average number of linear function evaluations:                145.
+
+
+CPU time:       0.125
+
+
+
+
+No of hyperplanes:   2
+
+Fit function value:    20911952153.32667160
+
+The number of linear regression problems solved:         1
+
+
+The number of linear function evaluations:            2942048.
+
+Average number of linear function evaluations:               2747.
+
+
+CPU time:       0.312
+
+
+
+
+No of hyperplanes:   3
+
+Fit function value:    20059311593.54933167
+
+The number of linear regression problems solved:         1
+
+
+The number of linear function evaluations:            8691263.
+
+Average number of linear function evaluations:               8115.
+
+
+CPU time:       0.594
+
+
+
+
+No of hyperplanes:   4
+
+Fit function value:    19105387434.01608658
+
+The number of linear regression problems solved:         1
+
+
+The number of linear function evaluations:           19703337.
+
+Average number of linear function evaluations:              18397.
+
+
+CPU time:       1.172
+
+
+
+
+No of hyperplanes:   5
+
+Fit function value:    18078990738.96113586
+
+The number of linear regression problems solved:         1
+
+
+The number of linear function evaluations:           26766466.
+
+Average number of linear function evaluations:              24992.
+
+
+CPU time:       1.469
+
+
+
+
+No of hyperplanes:   6
+
+Fit function value:    17328362349.76129913
+
+The number of linear regression problems solved:         1
+
+
+The number of linear function evaluations:           41662398.
+
+Average number of linear function evaluations:              38900.
+
+
+CPU time:       2.156
+
+
+
+
+No of hyperplanes:   7
+
+Fit function value:    16353872868.56990433
+
+The number of linear regression problems solved:         1
+
+
+The number of linear function evaluations:           56567488.
+
+Average number of linear function evaluations:              52817.
+
+
+CPU time:       2.797
+
+
+
+
+No of hyperplanes:   8
+
+Fit function value:    15989575386.20751572
+
+The number of linear regression problems solved:         1
+
+
+The number of linear function evaluations:           75207142.
+
+Average number of linear function evaluations:              70221.
+
+
+CPU time:       3.547
+
+
+
+
+No of hyperplanes:   9
+
+Fit function value:    15939918405.84664917
+
+The number of linear regression problems solved:         1
+
+
+The number of linear function evaluations:           89669174.
+
+Average number of linear function evaluations:              83725.
+
+
+CPU time:       4.141
+
+
+
+
+No of hyperplanes:  10
+
+Fit function value:    15616294360.17762947
+
+The number of linear regression problems solved:         1
+
+
+The number of linear function evaluations:          101530004.
+
+Average number of linear function evaluations:              94799.
+
+
+CPU time:       4.562
+
+
+
+
+No of hyperplanes:  11
+
+Fit function value:    15575032825.12106133
+
+The number of linear regression problems solved:         1
+
+
+The number of linear function evaluations:          112798767.
+
+Average number of linear function evaluations:             105321.
+
+
+CPU time:       4.984
+
+
+
+
+No of hyperplanes:  12
+
+Fit function value:    11371542911.37983513
+
+The number of linear regression problems solved:         1
+
+
+The number of linear function evaluations:          168504800.
+
+Average number of linear function evaluations:             157334.
+
+
+CPU time:       9.891
+
+
+
+
+No of hyperplanes:  13
+
+Fit function value:    11523378325.04006004
+
+The number of linear regression problems solved:         1
+
+
+The number of linear function evaluations:          212194108.
+
+Average number of linear function evaluations:             198127.
+
+
+CPU time:      13.688
+
+
+
+
+No of hyperplanes:  14
+
+Fit function value:    10569921746.40465164
+
+The number of linear regression problems solved:         1
+
+
+The number of linear function evaluations:          274710438.
+
+Average number of linear function evaluations:             256499.
+
+
+CPU time:      16.078
+
+
+
+
+No of hyperplanes:  15
+
+Fit function value:    10488155521.68611908
+
+The number of linear regression problems solved:         1
+
+
+The number of linear function evaluations:          358288442.
+
+Average number of linear function evaluations:             334536.
+
+
+CPU time:      19.703
+
+
+
